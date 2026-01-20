@@ -1,2 +1,2 @@
-# Palate_generator
-This is a color palate generator
+# Palette_generator
+This is a color palette generator
